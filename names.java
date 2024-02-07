@@ -10,5 +10,6 @@ public class names {
         Random random = new Random();
         int randomInt = random.nextInt(100) + 1;
         System.out.println(randomInt);
+        System.out.println("Welcome to CS 490");
     }   
 }
